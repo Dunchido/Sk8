@@ -1,0 +1,52 @@
+body{
+    margin: auto;
+    padding: auto;
+    background-size: 1920px 1080px;
+    background-repeat: no-repeat;
+    background-color: purple;
+    background-image: url("http://www.larutadelsorigens.cat/filelook/full/22/221917/welcome-wallpaper.png")
+}
+
+#indexVideo1 {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.txtPresent {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 660px;
+    right: 0;
+    display: absolute;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: maroon;
+     
+}
+
+.txtPresent h1 {
+    font-size: 80px;
+}
+
+.txtPresent h1{
+    font-family: 'Bungee Inline', cursive;
+}
+
+.video1{
+    position:absolute;
+    align-items: center;
+    top: 450px;
+    bottom: center;
+    left: 610px;
+    right: center;
+
+}
+
+.p{
+    font-family: 'Bungee Inline, cursive';
+    font-size: 25px;
+}
+
