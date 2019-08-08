@@ -49,4 +49,8 @@ body{
     font-family: 'Bungee Inline, cursive';
     font-size: 25px;
 }
-
+#header{
+    position:absolute;
+    top: 8px;
+    left: 16px;
+}
