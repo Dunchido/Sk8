@@ -1,46 +1,46 @@
 body{
     margin: auto;
     padding: auto;
-    background-size: 1920px 1080px;
+    background-size: 100%;
     background-repeat: no-repeat;
-    background-color: purple;
-    background-image: url("http://www.larutadelsorigens.cat/filelook/full/22/221917/welcome-wallpaper.png")
+    background-color: black;
 }
 
 #indexVideo1 {
     object-fit: cover;
     height: 100%;
     width: 100%;
+    opacity: 0.3;
 }
 
 .txtPresent {
     position: absolute;
     top: 0;
     bottom: 0;
-    left: 660px;
+    left: 35%;
     right: 0;
     display: absolute;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    color: maroon;
-     
+    color: whitesmoke; 
 }
 
-.txtPresent h1 {
+.txtPresent p {
     font-size: 80px;
+    font-weight: ;
 }
 
-.txtPresent h1{
-    font-family: 'Bungee Inline', cursive;
+.txtPresent p{
+    font-family: 'Monoton', cursive;
 }
 
 .video1{
     position:absolute;
     align-items: center;
-    top: 450px;
+    top: 50%;
     bottom: center;
-    left: 610px;
+    left: 33%;
     right: center;
 
 }
@@ -49,8 +49,23 @@ body{
     font-family: 'Bungee Inline, cursive';
     font-size: 25px;
 }
-#header{
+
+#navbar{
     position:absolute;
     top: 8px;
     left: 16px;
+    font-family: 'Monoton', cursive;
+    
 }
+
+ a:link{
+    color:whitesmoke;
+    text-decoration:none;
+     
+}
+ 
+a:visited{
+    color:whitesmoke;
+    text-decoration:none;
+}
+
