@@ -10,7 +10,7 @@ body{
     object-fit: cover;
     height: 100%;
     width: 100%;
-    opacity: 0.3;
+    opacity: 0.4;
 }
 
 .txtPresent {
@@ -27,20 +27,36 @@ body{
 }
 
 .txtPresent p {
-    font-size: 80px;
-    font-weight: ;
+    font-size: 5vw;
 }
 
 .txtPresent p{
     font-family: 'Monoton', cursive;
 }
 
+.subheading{
+    position: absolute;
+    top: 25%;
+    bottom: 0;
+    left: 47%;
+    right: 0;
+    display: absolute;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: whitesmoke;
+}
+
+.subheading p{
+    font-size: 2vw;
+    font-family: 'Monoton', cursive;
+}
 .video1{
     position:absolute;
     align-items: center;
     top: 50%;
     bottom: center;
-    left: 33%;
+    left: 34%;
     right: center;
 
 }
