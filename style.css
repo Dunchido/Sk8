@@ -15,7 +15,7 @@ body{
 
 .txtPresent {
     position: absolute;
-    left: 30.5%;
+    left: 35%;
     display: absolute;
     justify-content: center;
     align-items: center;
@@ -24,7 +24,7 @@ body{
 }
 
 .txtPresent p {
-    font-size: 5vw;
+    font-size: 4.5em;
 }
 
 .txtPresent p{
@@ -45,7 +45,7 @@ body{
 }
 
 .subheading p{
-    font-size: 1.5vw;
+    font-size: 1.5em;
     font-family: 'Monoton', cursive;
 }
 .video1{
@@ -60,13 +60,13 @@ body{
 
 .p{
     font-family: 'Bungee Inline, cursive';
-    font-size: 25px;
+    font-size: 2em;
 }
 
 #navbar{
     position:absolute;
-    top: 25%;
-    left: 44.5%;
+    top: 22%;
+    left: 43.3%;
     bottom: center;
     font-family: 'Monoton', cursive;
     
