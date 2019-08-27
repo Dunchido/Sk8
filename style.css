@@ -15,7 +15,8 @@ body{
 
 .txtPresent {
     position: absolute;
-    left: 35%;
+    top: 0%;
+    left:41%;
     display: absolute;
     justify-content: center;
     align-items: center;
@@ -24,30 +25,17 @@ body{
 }
 
 .txtPresent p {
-    font-size: 4.5em;
+    font-size: 3em;
 }
 
 .txtPresent p{
     font-family: 'Monoton', cursive;
 }
 
-.subheading{
-    position: absolute;
-    top: 18%;
-    bottom: 0;
-    left: 45%;
-    right: 0;
-    display: absolute;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    color: whitesmoke;
+.p{
+    
 }
 
-.subheading p{
-    font-size: 1.5em;
-    font-family: 'Monoton', cursive;
-}
 .video1{
     position:absolute;
     align-items: center;
@@ -65,8 +53,8 @@ body{
 
 #navbar{
     position:absolute;
-    top: 22%;
-    left: 43.3%;
+    top: 10%;
+    left: 45.5%;
     bottom: center;
     font-family: 'Monoton', cursive;
     
