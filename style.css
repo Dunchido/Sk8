@@ -29,7 +29,7 @@ body{
 }
 
 .txtPresent p{
-    font-family: 'Monoton', cursive;
+    font-family: 'Monoton', cursive; 
 }
 
 .p{
@@ -83,7 +83,23 @@ padding-top: ; height: 0; overflow: hidden;
 align-items: center;
 position: absolute;
 top: 0.5%;
-width: 100%;
-height: 100%;
+width: 50%;
+height: 50%;
+}
+
+.video-container2 {
+position: relative;
+padding-bottom: 56.25%;
+padding-top: ; height: 0; overflow: hidden;
+}
+
+.video-container2 iframe,
+.video-container2 object,
+.video-container2 embed {
+align-items: center;
+position: absolute;
+left: 50%;
+width: 50%;
+height: 50%;
 }
 
