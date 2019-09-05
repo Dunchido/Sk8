@@ -16,7 +16,7 @@ body{
 .txtPresent {
     position: absolute;
     top: 0%;
-    left:41%;
+    left:36%;
     display: absolute;
     justify-content: center;
     align-items: center;
@@ -25,7 +25,7 @@ body{
 }
 
 .txtPresent p {
-    font-size: 3em;
+    font-size: 4vw;
 }
 
 .txtPresent p{
@@ -69,37 +69,5 @@ body{
 a:visited{
     color:whitesmoke;
     text-decoration:none;
-}
-
-.video-container {
-position: relative;
-padding-bottom: 56.25%;
-padding-top: ; height: 0; overflow: hidden;
-}
-
-.video-container iframe,
-.video-container object,
-.video-container embed {
-align-items: center;
-position: absolute;
-top: 0.5%;
-width: 50%;
-height: 50%;
-}
-
-.video-container2 {
-position: relative;
-padding-bottom: 56.25%;
-padding-top: ; height: 0; overflow: hidden;
-}
-
-.video-container2 iframe,
-.video-container2 object,
-.video-container2 embed {
-align-items: center;
-position: absolute;
-left: 50%;
-width: 50%;
-height: 50%;
 }
 
